@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Test 1",
+    "images": [
+      "https://arnassmicius.github.io/static-assets-test/static/1.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/2.jpg"
+    ]
+  },
+  {
+    "category": "Test 2",
+    "images": ["https://arnassmicius.github.io/static-assets-test/static/3.jpg"]
+  },
+  {
+    "category": "Test 3",
+    "images": ["https://arnassmicius.github.io/static-assets-test/static/4.jpg"]
+  }
+]
