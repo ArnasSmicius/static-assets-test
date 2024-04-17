@@ -18,5 +18,15 @@
       "https://arnassmicius.github.io/static-assets-test/static/resolution/1920x130.jpg",
       "https://arnassmicius.github.io/static-assets-test/static/resolution/1920x150.jpg"
     ]
+  },
+  {
+    "category": "Compression test",
+    "images": [
+      "https://arnassmicius.github.io/static-assets-test/static/compression/532kb.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/compression/188kb.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/compression/150kb.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/compression/100kb.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/compression/50kb.jpg"
+    ]
   }
 ]
