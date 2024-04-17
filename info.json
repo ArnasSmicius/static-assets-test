@@ -1,0 +1,86 @@
+[
+  {
+    "category": "New Year",
+    "dayOfYear": 1,
+    "images": [
+      "https://arnassmicius.github.io/static-assets-test/static/2.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/3.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/4.jpg"
+    ]
+  },
+  {
+    "category": "Valentine's Day",
+    "dayOfYear": 45,
+    "images": []
+  },
+  {
+    "category": "Spring",
+    "dayOfYear": 60,
+    "images": []
+  },
+  {
+    "category": "St. Patrick's Day",
+    "dayOfYear": 76,
+    "images": []
+  },
+  {
+    "category": "Easter",
+    "dayOfYear": 90,
+    "images": []
+  },
+  {
+    "category": "Mother's Day",
+    "dayOfYear": 125,
+    "images": []
+  },
+  {
+    "category": "Summer",
+    "dayOfYear": 152,
+    "images": []
+  },
+  {
+    "category": "Father's Day",
+    "dayOfYear": 153,
+    "images": []
+  },
+  {
+    "category": "Back to School",
+    "dayOfYear": 244,
+    "images": []
+  },
+  {
+    "category": "Fall",
+    "dayOfYear": 244,
+    "images": []
+  },
+  {
+    "category": "Halloween",
+    "dayOfYear": 304,
+    "images": []
+  },
+  {
+    "category": "Thanksgiving",
+    "dayOfYear": 332,
+    "images": []
+  },
+  {
+    "category": "Black Friday",
+    "dayOfYear": 333,
+    "images": []
+  },
+  {
+    "category": "Winter",
+    "dayOfYear": 335,
+    "images": []
+  },
+  {
+    "category": "Cyber Monday",
+    "dayOfYear": 336,
+    "images": []
+  },
+  {
+    "category": "Christmas",
+    "dayOfYear": 359,
+    "images": []
+  }
+]
