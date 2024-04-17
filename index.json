@@ -10,5 +10,13 @@
   {
     "category": "Summer",
     "images": ["https://arnassmicius.github.io/static-assets-test/static/1.jpg"]
+  },
+  {
+    "category": "Resolution test",
+    "images": [
+      "https://arnassmicius.github.io/static-assets-test/static/resolution/1920x100.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/resolution/1920x130.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/resolution/1920x150.jpg"
+    ]
   }
 ]
