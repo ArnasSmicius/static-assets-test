@@ -1,14 +1,5 @@
 [
   {
-    "category": "New Year",
-    "dayOfYear": 1,
-    "images": [
-      "https://arnassmicius.github.io/static-assets-test/static/2.jpg",
-      "https://arnassmicius.github.io/static-assets-test/static/3.jpg",
-      "https://arnassmicius.github.io/static-assets-test/static/4.jpg"
-    ]
-  },
-  {
     "category": "Valentine's Day",
     "dayOfYear": 45,
     "images": []
@@ -81,6 +72,15 @@
   {
     "category": "Christmas",
     "dayOfYear": 359,
+    "images": [
+      "https://arnassmicius.github.io/static-assets-test/static/2.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/3.jpg",
+      "https://arnassmicius.github.io/static-assets-test/static/4.jpg"
+    ]
+  },
+  {
+    "category": "New Year",
+    "dayOfYear": 365,
     "images": []
   }
 ]
