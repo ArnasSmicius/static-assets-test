@@ -37,7 +37,7 @@
   {
     "category": "Summer",
     "dayOfYear": 243,
-    "images": []
+    "images": ["https://arnassmicius.github.io/static-assets-test/summer/1.jpg"]
   },
   {
     "category": "Back to School",
