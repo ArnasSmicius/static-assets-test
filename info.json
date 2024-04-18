@@ -5,8 +5,8 @@
     "images": []
   },
   {
-    "category": "Spring",
-    "dayOfYear": 60,
+    "category": "Winter",
+    "dayOfYear": 59,
     "images": []
   },
   {
@@ -25,8 +25,8 @@
     "images": []
   },
   {
-    "category": "Summer",
-    "dayOfYear": 152,
+    "category": "Spring",
+    "dayOfYear": 151,
     "images": []
   },
   {
@@ -35,12 +35,12 @@
     "images": []
   },
   {
-    "category": "Back to School",
-    "dayOfYear": 244,
+    "category": "Summer",
+    "dayOfYear": 243,
     "images": []
   },
   {
-    "category": "Fall",
+    "category": "Back to School",
     "dayOfYear": 244,
     "images": []
   },
@@ -55,13 +55,13 @@
     "images": []
   },
   {
-    "category": "Black Friday",
-    "dayOfYear": 333,
+    "category": "Fall",
+    "dayOfYear": 334,
     "images": []
   },
   {
-    "category": "Winter",
-    "dayOfYear": 335,
+    "category": "Black Friday",
+    "dayOfYear": 333,
     "images": []
   },
   {
